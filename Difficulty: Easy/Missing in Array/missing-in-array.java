@@ -1,6 +1,6 @@
 class Solution {
     int missingNum(int arr[]) {
-        int n = arr.length + 1;   // FIX: define n
+        int n = arr.length + 1;   
         
         int xor1 = 0;
         int xor2 = 0;
